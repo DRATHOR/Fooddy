@@ -1,0 +1,3 @@
+[submodule "Fooddy-admin"]
+	path = Fooddy-admin
+	url = https://github.com/DRATHOR/Fooddy-admin.git
